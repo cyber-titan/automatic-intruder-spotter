@@ -1,6 +1,6 @@
 # automatic-intruder-spotter
 
-An Arduino UNO based project which offers protection by detecting intruders in places like home, offices, etc.
+An Arduino UNO and SIM900a based project which offers protection by detecting intruders in places like home, offices, etc.
 
 We are providing a home security for the theft by implementing automatic intruder spotter using ultrasonic sensor and SIM 900a. 
 Now-a-days, the IOT plays a major role in many fields by automating and application. 
